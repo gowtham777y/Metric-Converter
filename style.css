@@ -45,6 +45,8 @@ h1{
     height: 40px;
     margin-top: 25px;
     box-shadow: 0 0 2px #000000;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .output-container{
